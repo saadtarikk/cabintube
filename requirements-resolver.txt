@@ -1,0 +1,2 @@
+# Known-working resolver for the 2026-10-02 playback verification.
+yt-dlp[default]==2026.8.19
